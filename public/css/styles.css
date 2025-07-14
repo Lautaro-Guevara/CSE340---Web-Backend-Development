@@ -221,13 +221,13 @@ footer, .footer {
   }
 
   .base {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr;
     
   }
 
   #reviews {
     margin: 1rem 0;
-    grid-column: 3 / 4;
+    grid-column: 2 / 3;
   }
 /*
   .hero-image {
